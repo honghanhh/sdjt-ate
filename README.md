@@ -4,8 +4,6 @@
 
 In this repo, we experiment  XLM-RoBERTa on  RSDO5 dataset to evaluate the performance of multilingual pretrained language models in the cross-domain sequence-labeling setting of automatic term extraction (ATE) and compare our models' performance towards the benchmarks.
 
----
-
 ## 2. Requirements
 
 Please install all the necessary libraries noted in [requirements.txt](./requirements.txt) using this command:
