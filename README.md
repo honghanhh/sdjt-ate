@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## 3. Data
 
-The experiments were conducted on RSDO5 dataset, which is a collection of 12 documents with altogether about 250,000 words from the Slovenian language. The dataset is available at []() and contains the following domains:
+The experiments were conducted on RSDO5 dataset, which is a collection of 12 documents with altogether about 250,000 words from the Slovenian language. The dataset is available at [RSDO5 1.1](https://www.clarin.si/repository/xmlui/handle/11356/1470) and contains the following domains:
 
 || RSDO5 dataset|
 |:-:|:-:|
